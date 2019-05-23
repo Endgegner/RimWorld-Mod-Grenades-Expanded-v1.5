@@ -23,5 +23,5 @@ Events:
 Animals:
 - Killer Rabbit
 
-License:
+License:<br>
 All files/content belong their respective owners.
