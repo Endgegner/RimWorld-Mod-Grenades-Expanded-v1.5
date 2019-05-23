@@ -6,11 +6,11 @@ Grenades Expanded [ENG] - This mod expands your arsenal on grenades (v. 1.5)
 ### Changes
 
 Added:
-- Army Grenade
-- Napalm Bomb
-- Death Container
-- Disintegrator
-- Plasma grenade
+ - Army Grenade (Cheap, Shrapnel DMG, 5x5)
+ - Napalm Bomb (Firestarter, Double BURN, 6x6) 
+ - Death Container (Plague/Sickness Grenade, VERY deadly, 8x8)
+ - Disintegrator (Flame, high DPS, High Armor Penetration, 6x6)
+ - Plasma Grenade (Melt grenade, Armor DESTROYER, 4x4)
 
 Minor Bugfixes,
 Graphic Update/Refinement
@@ -23,7 +23,7 @@ Events:
 - Incident on Hare death (Manhunterpack)
 
 Animals:
-- Killer Rabbit
+- Killer Rabbit (Exotic Traders)
 
 Look at previous versions for more information.
 
